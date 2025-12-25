@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project involves fine-tuning a Small Language Model (SLM) to act as a specialized **Banking & Finance Support Assistant**. The goal was to create a model capable of handling customer queries regarding account balances, lost cards, fund transfers, and loan inquiries with high precision, while adhering to compute constraints (Google Colab Free Tier).
 
-[cite_start]This work is submitted as part of the **OXZON AI Internship Selection Process**[cite: 1, 2].
+This work is submitted as part of the **OXZON AI Internship Selection Process**[cite: 1, 2].
 
 ---
 
@@ -13,7 +13,7 @@ General-purpose LLMs can answer banking questions but often lack the specific to
 2.  Provide concise, safe, and rule-based responses.
 3.  Avoid hallucinating medical or irrelevant advice.
 
-[cite_start]**Selected Domain:** Banking / Finance Support Assistant[cite: 12].
+**Selected Domain:** Banking / Finance Support Assistant[cite: 12].
 
 ---
 
@@ -28,7 +28,7 @@ I chose **Flan-T5-Base** (250M parameters) for this task because:
 Instead of full fine-tuning (which is slow and memory-intensive), I used **PEFT (Parameter-Efficient Fine-Tuning)** with **LoRA**.
 * **Why LoRA?** LoRA freezes the pre-trained model weights and injects trainable rank decomposition matrices into the attention layers.
 * **Impact:** I only trained **~1.7 million parameters** (less than 1% of the total model), reducing memory usage by ~60% and speeding up training by 4x.
-* [cite_start]**Config:** `r=16`, `lora_alpha=32`, `target_modules=["q", "v"]`[cite: 21, 50].
+* **Config:** `r=16`, `lora_alpha=32`, `target_modules=["q", "v"]`.
 
 ---
 
@@ -65,7 +65,7 @@ I evaluated the model by comparing the outputs of the base `flan-t5-base` agains
 | **Transfer 500 to Mom.** | Transfer 500 to Mom. | Transfer request for 500 received. Please verify recipient details. |
 | **What is my Savings balance?** | £0 | The available balance for your Savings is $2682.00. |
 
-**Analysis:** The base model often just repeated the input or guessed random numbers. [cite_start]The fine-tuned model correctly identified the intent and provided the standard banking protocol response[cite: 44, 45, 46].
+**Analysis:** The base model often just repeated the input or guessed random numbers.The fine-tuned model correctly identified the intent and provided the standard banking protocol response[cite: 44, 45, 46].
 
 ---
 
@@ -104,6 +104,6 @@ I evaluated the model by comparing the outputs of the base `flan-t5-base` agains
 
 * **Challenge:** Initial training resulted in `NaN` loss values.
     * *Solution:* Lowered the learning rate from `1e-3` to `3e-4` and fixed data padding masking (replaced pad tokens with `-100`).
-* [cite_start]**Future Improvement:** With more compute, I would experiment with **RAG (Retrieval Augmented Generation)** to allow the model to look up *real-time* account balances instead of generating static responses[cite: 52, 73].
+* **Future Improvement:** With more compute, I would experiment with **RAG (Retrieval Augmented Generation)** to allow the model to look up *real-time* account balances instead of generating static responses.
 
 ---
