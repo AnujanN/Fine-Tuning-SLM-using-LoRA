@@ -1,0 +1,3202 @@
+[
+    {
+        "instruction": "I lost my credit card.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "You have $4760.00 available in your Checking."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "The available balance for your Joint is $1867.00."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "Your current balance in the Credit Card is $3531.00."
+    },
+    {
+        "instruction": "Please pay David 4020.00 from my Credit Card.",
+        "response": "Transfer request for 4020.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Credit Card has a balance of $186.00."
+    },
+    {
+        "instruction": "How do I report a lost Debit Card?",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "As of today, your Joint has a balance of $1997.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Check Business balance please.",
+        "response": "Your current balance in the Business is $4960.00."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Initiate a transfer of 2128.00.",
+        "response": "Transfer request for 2128.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Transfer 2079.00 to Eve.",
+        "response": "To send 2079.00 to Eve, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Initiate a transfer of 4547.00.",
+        "response": "I have initiated a transfer of 4547.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Please pay Eve 2088.00 from my Joint.",
+        "response": "To send 2088.00 to Eve, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Transfer 3674.00 to Charlie.",
+        "response": "I have initiated a transfer of 3674.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "As of today, your Joint has a balance of $4623.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "You have $1792.00 available in your Savings."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "The available balance for your Credit Card is $4170.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "As of today, your Business has a balance of $1571.00."
+    },
+    {
+        "instruction": "Can I wire 2896.00 to Bob?",
+        "response": "To send 2896.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can I wire 119.00 to Mom?",
+        "response": "I have initiated a transfer of 119.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How much money is in my Credit Card account?",
+        "response": "The available balance for your Credit Card is $3252.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "I can't find my Debit Card, help!",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Please pay Mom 4899.00 from my Credit Card.",
+        "response": "You are about to send 4899.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Initiate a transfer of 3637.00.",
+        "response": "To send 3637.00 to Eve, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Send 2401.00 to my mom.",
+        "response": "Transfer request for 2401.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "You have $4793.00 available in your Joint."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "I can't find my Platinum Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Check Savings balance please.",
+        "response": "As of today, your Savings has a balance of $701.00."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "As of today, your Credit Card has a balance of $644.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "The available balance for your Checking is $1829.00."
+    },
+    {
+        "instruction": "Please pay Eve 3606.00 from my Savings.",
+        "response": "I have initiated a transfer of 3606.00 to Eve. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Initiate a transfer of 258.00.",
+        "response": "Transfer request for 258.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How do I report a lost Debit Card?",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "Your current balance in the Savings is $4014.00."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Send 552.00 to my mom.",
+        "response": "Transfer request for 552.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Please pay Bob 3330.00 from my Business.",
+        "response": "Transfer request for 3330.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Checking is $3792.00."
+    },
+    {
+        "instruction": "Send 2589.00 to my mom.",
+        "response": "To send 2589.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How do I report a lost MasterCard?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Please pay David 2500.00 from my Checking.",
+        "response": "You are about to send 2500.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "Your current balance in the Joint is $4628.00."
+    },
+    {
+        "instruction": "Can I apply for a Personal Loan?",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Credit Card.",
+        "response": "The available balance for your Credit Card is $3060.00."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your MasterCard via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "The available balance for your Checking is $4662.00."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Savings is $440.00."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "The available balance for your Joint is $1346.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Business.",
+        "response": "Your current balance in the Business is $4861.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How much money is in my Credit Card account?",
+        "response": "The available balance for your Credit Card is $2804.00."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "Do not worry. You can freeze your MasterCard via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "Your current balance in the Checking is $3632.00."
+    },
+    {
+        "instruction": "Check Savings balance please.",
+        "response": "Your current balance in the Savings is $3422.00."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Please pay Bob 3218.00 from my Joint.",
+        "response": "Transfer request for 3218.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "Your current balance in the Savings is $868.00."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "As of today, your Joint has a balance of $1165.00."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Please pay Alice 130.00 from my Joint.",
+        "response": "To send 130.00 to Alice, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "Your current balance in the Savings is $1197.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "Your current balance in the Checking is $533.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "The available balance for your Savings is $3749.00."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "You have $671.00 available in your Joint."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Transfer 2088.00 to Eve.",
+        "response": "I have initiated a transfer of 2088.00 to Eve. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Send 1782.00 to my mom.",
+        "response": "I have initiated a transfer of 1782.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Credit Card?",
+        "response": "Your current balance in the Credit Card is $3119.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 4199.00.",
+        "response": "I have initiated a transfer of 4199.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $2797.00 available in your Joint."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Transfer 11.00 to Landlord.",
+        "response": "To send 11.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $2827.00 available in your Business."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Initiate a transfer of 2745.00.",
+        "response": "To send 2745.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "As of today, your Savings has a balance of $394.00."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "The available balance for your Savings is $2761.00."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Initiate a transfer of 2590.00.",
+        "response": "You are about to send 2590.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Please pay Charlie 1374.00 from my Business.",
+        "response": "I have initiated a transfer of 1374.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your Platinum Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Initiate a transfer of 628.00.",
+        "response": "You are about to send 628.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "Your current balance in the Joint is $1040.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Send 2332.00 to my mom.",
+        "response": "I have initiated a transfer of 2332.00 to Alice. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Checking is $4849.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 1947.00.",
+        "response": "To send 1947.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Transfer 4659.00 to Charlie.",
+        "response": "Transfer request for 4659.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Initiate a transfer of 4135.00.",
+        "response": "I have initiated a transfer of 4135.00 to Eve. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Initiate a transfer of 3084.00.",
+        "response": "Transfer request for 3084.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I wire 2959.00 to Eve?",
+        "response": "Transfer request for 2959.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Initiate a transfer of 1395.00.",
+        "response": "I have initiated a transfer of 1395.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "I can't find my Debit Card, help!",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Transfer 40.00 to Bob.",
+        "response": "To send 40.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "Your current balance in the Joint is $2744.00."
+    },
+    {
+        "instruction": "My Travel Card was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Initiate a transfer of 1921.00.",
+        "response": "You are about to send 1921.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I can't find my Platinum Card, help!",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Initiate a transfer of 2114.00.",
+        "response": "Transfer request for 2114.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Please pay Charlie 2100.00 from my Savings.",
+        "response": "I have initiated a transfer of 2100.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How much money is in my Checking account?",
+        "response": "You have $4780.00 available in your Checking."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Tell me about your Home Loan options.",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I wire 1662.00 to Bob?",
+        "response": "You are about to send 1662.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Can I wire 3889.00 to Mom?",
+        "response": "I have initiated a transfer of 3889.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Business.",
+        "response": "The available balance for your Business is $4437.00."
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Transfer 352.00 to Alice.",
+        "response": "To send 352.00 to Alice, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Credit Card is $1552.00."
+    },
+    {
+        "instruction": "Check Savings balance please.",
+        "response": "You have $4125.00 available in your Savings."
+    },
+    {
+        "instruction": "How much money is in my Checking account?",
+        "response": "The available balance for your Checking is $3271.00."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "You have $360.00 available in your Savings."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Transfer 4168.00 to Alice.",
+        "response": "You are about to send 4168.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "Your current balance in the Savings is $1408.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "You have $2472.00 available in your Savings."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Business?",
+        "response": "The available balance for your Business is $2599.00."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I wire 2276.00 to David?",
+        "response": "I have initiated a transfer of 2276.00 to David. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "As of today, your Checking has a balance of $2375.00."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Transfer 1480.00 to Landlord.",
+        "response": "I have initiated a transfer of 1480.00 to Landlord. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Initiate a transfer of 1756.00.",
+        "response": "To send 1756.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $4638.00 available in your Joint."
+    },
+    {
+        "instruction": "Can I wire 4046.00 to Bob?",
+        "response": "I have initiated a transfer of 4046.00 to Bob. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Initiate a transfer of 994.00.",
+        "response": "Transfer request for 994.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Initiate a transfer of 85.00.",
+        "response": "Transfer request for 85.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Savings has a balance of $3939.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "Your current balance in the Checking is $2236.00."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I apply for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Can I apply for a Car Loan?",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Please pay Mom 4876.00 from my Savings.",
+        "response": "To send 4876.00 to Mom, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "My MasterCard was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Joint has a balance of $3905.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "As of today, your Savings has a balance of $3622.00."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "I can't find my Platinum Card, help!",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "The available balance for your Checking is $2812.00."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "As of today, your Joint has a balance of $2921.00."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "The available balance for your Joint is $277.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Joint is $4514.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 1693.00.",
+        "response": "To send 1693.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Transfer 4502.00 to David.",
+        "response": "You are about to send 4502.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Can I apply for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Checking is $1723.00."
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Initiate a transfer of 1498.00.",
+        "response": "To send 1498.00 to Alice, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "My Travel Card was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Initiate a transfer of 196.00.",
+        "response": "You are about to send 196.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Transfer 2226.00 to David.",
+        "response": "Transfer request for 2226.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Transfer 1435.00 to Mom.",
+        "response": "To send 1435.00 to Mom, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your MasterCard temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Can I wire 4510.00 to Eve?",
+        "response": "You are about to send 4510.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I wire 2228.00 to Landlord?",
+        "response": "To send 2228.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $4557.00 available in your Joint."
+    },
+    {
+        "instruction": "Check Savings balance please.",
+        "response": "As of today, your Savings has a balance of $2819.00."
+    },
+    {
+        "instruction": "Transfer 262.00 to Mom.",
+        "response": "I have initiated a transfer of 262.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "As of today, your Checking has a balance of $51.00."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Initiate a transfer of 2327.00.",
+        "response": "You are about to send 2327.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your MasterCard temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I can't find my Debit Card, help!",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Savings is $1815.00."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "You have $3604.00 available in your Joint."
+    },
+    {
+        "instruction": "Please pay Landlord 3897.00 from my Joint.",
+        "response": "To send 3897.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Business?",
+        "response": "You have $4377.00 available in your Business."
+    },
+    {
+        "instruction": "How much money is in my Checking account?",
+        "response": "Your current balance in the Checking is $1008.00."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Send 750.00 to my mom.",
+        "response": "I have initiated a transfer of 750.00 to Eve. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Can I apply for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Send 3490.00 to my mom.",
+        "response": "Transfer request for 3490.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Initiate a transfer of 4817.00.",
+        "response": "I have initiated a transfer of 4817.00 to Bob. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can I wire 195.00 to David?",
+        "response": "To send 195.00 to David, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "As of today, your Joint has a balance of $2071.00."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "You have $1655.00 available in your Joint."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Business?",
+        "response": "Your current balance in the Business is $4149.00."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Please pay Landlord 3361.00 from my Credit Card.",
+        "response": "I have initiated a transfer of 3361.00 to Landlord. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Please pay Eve 2368.00 from my Joint.",
+        "response": "You are about to send 2368.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "As of today, your Business has a balance of $1413.00."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Please pay Eve 2682.00 from my Joint.",
+        "response": "Transfer request for 2682.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "How do I report a lost Debit Card?",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Can I apply for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "Our Personal Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Please pay Charlie 3271.00 from my Joint.",
+        "response": "To send 3271.00 to Charlie, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Credit Card is $2204.00."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Joint is $2772.00."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Business has a balance of $129.00."
+    },
+    {
+        "instruction": "Can I wire 2093.00 to Bob?",
+        "response": "Transfer request for 2093.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Checking has a balance of $4899.00."
+    },
+    {
+        "instruction": "Transfer 4963.00 to David.",
+        "response": "You are about to send 4963.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "I can't find my Platinum Card, help!",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "You have $2356.00 available in your Savings."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Send 1222.00 to my mom.",
+        "response": "To send 1222.00 to Alice, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "Your current balance in the Checking is $4471.00."
+    },
+    {
+        "instruction": "Transfer 2234.00 to Eve.",
+        "response": "You are about to send 2234.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $2705.00 available in your Business."
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "The available balance for your Business is $302.00."
+    },
+    {
+        "instruction": "Send 1352.00 to my mom.",
+        "response": "Transfer request for 1352.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "As of today, your Checking has a balance of $284.00."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Transfer 77.00 to Landlord.",
+        "response": "Transfer request for 77.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "As of today, your Checking has a balance of $3289.00."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I wire 4524.00 to Eve?",
+        "response": "You are about to send 4524.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Business.",
+        "response": "As of today, your Business has a balance of $3642.00."
+    },
+    {
+        "instruction": "Transfer 4845.00 to Landlord.",
+        "response": "You are about to send 4845.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Send 4841.00 to my mom.",
+        "response": "Transfer request for 4841.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I wire 2281.00 to Mom?",
+        "response": "Transfer request for 2281.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Initiate a transfer of 4994.00.",
+        "response": "To send 4994.00 to Landlord, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "As of today, your Joint has a balance of $3569.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "The available balance for your Checking is $3967.00."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Initiate a transfer of 2041.00.",
+        "response": "I have initiated a transfer of 2041.00 to Alice. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Transfer 2070.00 to David.",
+        "response": "Transfer request for 2070.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "The available balance for your Checking is $3649.00."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How much money is in my Checking account?",
+        "response": "As of today, your Checking has a balance of $4047.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 3417.00.",
+        "response": "Transfer request for 3417.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "You have $140.00 available in your Business."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "Your current balance in the Savings is $1691.00."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "The available balance for your Savings is $1608.00."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Can I wire 3491.00 to Charlie?",
+        "response": "You are about to send 3491.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "Your current balance in the Credit Card is $417.00."
+    },
+    {
+        "instruction": "Can I wire 4487.00 to Bob?",
+        "response": "To send 4487.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Credit Card has a balance of $3148.00."
+    },
+    {
+        "instruction": "How much money is in my Credit Card account?",
+        "response": "As of today, your Credit Card has a balance of $3535.00."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "You have $3169.00 available in your Checking."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Send 4666.00 to my mom.",
+        "response": "To send 4666.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "I need to know my remaining balance in Business.",
+        "response": "You have $2714.00 available in your Business."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "How do I report a lost MasterCard?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Can I wire 410.00 to Charlie?",
+        "response": "I have initiated a transfer of 410.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I wire 3863.00 to Bob?",
+        "response": "You are about to send 3863.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "I can't find my Debit Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "You have $1470.00 available in your Business."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "The available balance for your Checking is $3492.00."
+    },
+    {
+        "instruction": "I can't find my Platinum Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Please pay Charlie 2848.00 from my Joint.",
+        "response": "You are about to send 2848.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Check Business balance please.",
+        "response": "You have $3732.00 available in your Business."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Please pay David 820.00 from my Savings.",
+        "response": "You are about to send 820.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I apply for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can I wire 2875.00 to David?",
+        "response": "You are about to send 2875.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Transfer 4894.00 to Eve.",
+        "response": "Transfer request for 4894.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I wire 170.00 to Bob?",
+        "response": "To send 170.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "The available balance for your Joint is $560.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 1015.00.",
+        "response": "I have initiated a transfer of 1015.00 to David. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "I have locked your MasterCard temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Credit Card has a balance of $3716.00."
+    },
+    {
+        "instruction": "My Platinum Card was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Checking has a balance of $3743.00."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "As of today, your Savings has a balance of $745.00."
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "You have $1094.00 available in your Joint."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Send 4895.00 to my mom.",
+        "response": "Transfer request for 4895.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $73.00 available in your Savings."
+    },
+    {
+        "instruction": "Transfer 3815.00 to Eve.",
+        "response": "Transfer request for 3815.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Please pay Mom 3433.00 from my Joint.",
+        "response": "I have initiated a transfer of 3433.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "The available balance for your Joint is $1508.00."
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "As of today, your Checking has a balance of $409.00."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "You have $349.00 available in your Joint."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $3460.00 available in your Credit Card."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your MasterCard temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "Your current balance in the Savings is $662.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Transfer 3649.00 to Mom.",
+        "response": "I have initiated a transfer of 3649.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Send 2510.00 to my mom.",
+        "response": "Transfer request for 2510.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Initiate a transfer of 2923.00.",
+        "response": "Transfer request for 2923.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Initiate a transfer of 292.00.",
+        "response": "Transfer request for 292.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Transfer 994.00 to Mom.",
+        "response": "To send 994.00 to Mom, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $936.00 available in your Joint."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "You have $3727.00 available in your Savings."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Credit Card?",
+        "response": "As of today, your Credit Card has a balance of $2359.00."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $1843.00 available in your Checking."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Checking is $2825.00."
+    },
+    {
+        "instruction": "Please pay Bob 88.00 from my Checking.",
+        "response": "You are about to send 88.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Check Business balance please.",
+        "response": "As of today, your Business has a balance of $4626.00."
+    },
+    {
+        "instruction": "Send 1700.00 to my mom.",
+        "response": "I have initiated a transfer of 1700.00 to Alice. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Initiate a transfer of 1148.00.",
+        "response": "You are about to send 1148.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "You have $2782.00 available in your Credit Card."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "I have locked your Debit Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "My MasterCard was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Initiate a transfer of 3231.00.",
+        "response": "To send 3231.00 to David, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "The available balance for your Checking is $2883.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "Your current balance in the Checking is $1545.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 1737.00.",
+        "response": "Transfer request for 1737.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "As of today, your Joint has a balance of $4857.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Savings.",
+        "response": "You have $1715.00 available in your Savings."
+    },
+    {
+        "instruction": "Check Business balance please.",
+        "response": "The available balance for your Business is $4766.00."
+    },
+    {
+        "instruction": "Send 1812.00 to my mom.",
+        "response": "I have initiated a transfer of 1812.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "As of today, your Savings has a balance of $1745.00."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Send 2779.00 to my mom.",
+        "response": "I have initiated a transfer of 2779.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "The available balance for your Joint is $3819.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I wire 447.00 to Eve?",
+        "response": "To send 447.00 to Eve, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Transfer 203.00 to Charlie.",
+        "response": "To send 203.00 to Charlie, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Transfer 2469.00 to David.",
+        "response": "To send 2469.00 to David, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Business is $3167.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "Your current balance in the Credit Card is $1088.00."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Send 4148.00 to my mom.",
+        "response": "Transfer request for 4148.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Credit Card?",
+        "response": "You have $191.00 available in your Credit Card."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Send 3237.00 to my mom.",
+        "response": "To send 3237.00 to Charlie, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Initiate a transfer of 58.00.",
+        "response": "You are about to send 58.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "What is the interest rate for a Student Loan?",
+        "response": "Our Student Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "My MasterCard was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Can I apply for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Savings is $4596.00."
+    },
+    {
+        "instruction": "My Platinum Card was stolen, what do I do?",
+        "response": "I have locked your Platinum Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Transfer 285.00 to David.",
+        "response": "To send 285.00 to David, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "How much money is in my Business account?",
+        "response": "Your current balance in the Business is $4738.00."
+    },
+    {
+        "instruction": "Can I apply for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Business is $2121.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "Your current balance in the Joint is $1608.00."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Send 941.00 to my mom.",
+        "response": "Transfer request for 941.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Send 4681.00 to my mom.",
+        "response": "I have initiated a transfer of 4681.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I wire 1791.00 to Bob?",
+        "response": "Transfer request for 1791.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "I have locked your MasterCard temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Business?",
+        "response": "Your current balance in the Business is $2884.00."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Credit Card is $2984.00."
+    },
+    {
+        "instruction": "Can I wire 2518.00 to Landlord?",
+        "response": "Transfer request for 2518.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "I have locked your Visa temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Send 1644.00 to my mom.",
+        "response": "I have initiated a transfer of 1644.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Tell me about your Home Loan options.",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Transfer 1854.00 to Alice.",
+        "response": "Transfer request for 1854.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Transfer 33.00 to Eve.",
+        "response": "Transfer request for 33.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Credit Card.",
+        "response": "Your current balance in the Credit Card is $424.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "As of today, your Checking has a balance of $809.00."
+    },
+    {
+        "instruction": "Can I wire 2487.00 to David?",
+        "response": "You are about to send 2487.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can you tell me the balance of my Checking?",
+        "response": "The available balance for your Checking is $2664.00."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "Our Car Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "I need to know my remaining balance in Credit Card.",
+        "response": "Your current balance in the Credit Card is $1927.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "My Platinum Card was stolen, what do I do?",
+        "response": "I have locked your Platinum Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Do I qualify for a Personal Loan?",
+        "response": "You can apply for a Personal Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Can I wire 2287.00 to Eve?",
+        "response": "To send 2287.00 to Eve, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Credit Card is $920.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Send 664.00 to my mom.",
+        "response": "I have initiated a transfer of 664.00 to Landlord. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What is the interest rate for a Personal Loan?",
+        "response": "We offer Personal Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Visa via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Send 4280.00 to my mom.",
+        "response": "To send 4280.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "Send 546.00 to my mom.",
+        "response": "I have initiated a transfer of 546.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Car Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "Your current balance in the Savings is $375.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "Do not worry. You can freeze your MasterCard via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Transfer 983.00 to David.",
+        "response": "I have initiated a transfer of 983.00 to David. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "I have locked your Platinum Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "My Platinum Card was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $3054.00 available in your Savings."
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "Your current balance in the Checking is $2845.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "As of today, your Savings has a balance of $3689.00."
+    },
+    {
+        "instruction": "Please pay Alice 1775.00 from my Credit Card.",
+        "response": "You are about to send 1775.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I wire 3975.00 to Bob?",
+        "response": "I have initiated a transfer of 3975.00 to Bob. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "How do I report a lost Visa?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Do I qualify for a Home Loan?",
+        "response": "To qualify for a Home Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "The available balance for your Business is $3470.00."
+    },
+    {
+        "instruction": "How much money is in my Credit Card account?",
+        "response": "Your current balance in the Credit Card is $3060.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $1432.00 available in your Joint."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "As of today, your Credit Card has a balance of $3008.00."
+    },
+    {
+        "instruction": "Initiate a transfer of 4587.00.",
+        "response": "I have initiated a transfer of 4587.00 to Bob. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "I can't find my Debit Card, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Initiate a transfer of 2474.00.",
+        "response": "You are about to send 2474.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Transfer 1528.00 to Bob.",
+        "response": "Transfer request for 1528.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "I can't find my MasterCard, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Joint?",
+        "response": "You have $2304.00 available in your Joint."
+    },
+    {
+        "instruction": "Send 4529.00 to my mom.",
+        "response": "You are about to send 4529.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Can I wire 4537.00 to Charlie?",
+        "response": "Transfer request for 4537.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Check Joint balance please.",
+        "response": "The available balance for your Joint is $1440.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Tell me about your Car Loan options.",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "How do I report a lost Debit Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "How much money is in my Joint account?",
+        "response": "As of today, your Joint has a balance of $3028.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "You have $637.00 available in your Savings."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Do I qualify for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Credit Card.",
+        "response": "You have $1775.00 available in your Credit Card."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "Send 4601.00 to my mom.",
+        "response": "You are about to send 4601.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "Your current balance in the Credit Card is $2399.00."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Savings?",
+        "response": "The available balance for your Savings is $3451.00."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "I can't find my Travel Card, help!",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Tell me about your Home Loan options.",
+        "response": "We offer Home Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Check Credit Card balance please.",
+        "response": "Your current balance in the Credit Card is $1787.00."
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "My Travel Card was stolen, what do I do?",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "How much money is in my Savings account?",
+        "response": "You have $717.00 available in your Savings."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "Can I apply for a Home Loan?",
+        "response": "You can apply for a Home Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $627.00 available in your Joint."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Transfer 3535.00 to Bob.",
+        "response": "To send 3535.00 to Bob, you need to enter your PIN. Shall we proceed?"
+    },
+    {
+        "instruction": "How do I report a lost Debit Card?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "You have $3052.00 available in your Joint."
+    },
+    {
+        "instruction": "Do I qualify for a Student Loan?",
+        "response": "You can apply for a Student Loan directly through the app under the 'Loans' tab."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Please pay Charlie 255.00 from my Checking.",
+        "response": "I have initiated a transfer of 255.00 to Charlie. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can I apply for a Student Loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "My MasterCard was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "We offer Car Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Credit Card?",
+        "response": "As of today, your Credit Card has a balance of $2676.00."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Checking.",
+        "response": "As of today, your Checking has a balance of $4013.00."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Initiate a transfer of 3747.00.",
+        "response": "You are about to send 3747.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Please pay Eve 1820.00 from my Savings.",
+        "response": "Transfer request for 1820.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "My Visa was stolen, what do I do?",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Is the bank open on Sunday?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "How do I get a loan?",
+        "response": "To qualify for a Student Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "How much money is in my Checking account?",
+        "response": "The available balance for your Checking is $2754.00."
+    },
+    {
+        "instruction": "Transfer 357.00 to Landlord.",
+        "response": "You are about to send 357.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Send 2209.00 to my mom.",
+        "response": "I have initiated a transfer of 2209.00 to Landlord. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Can I wire 3098.00 to David?",
+        "response": "Transfer request for 3098.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "How much money is in my Credit Card account?",
+        "response": "The available balance for your Credit Card is $3415.00."
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Can you tell me the balance of my Business?",
+        "response": "As of today, your Business has a balance of $2366.00."
+    },
+    {
+        "instruction": "I can't find my Visa, help!",
+        "response": "For lost or stolen cards, please call our 24/7 emergency line at 1-800-SECURE immediately to prevent unauthorized transactions."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "What are your working hours?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "How do I report a lost Platinum Card?",
+        "response": "Do not worry. You can freeze your Platinum Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Our branches are open Mon-Fri from 9 AM to 5 PM. We are closed on Sundays and public holidays."
+    },
+    {
+        "instruction": "What is the interest rate for a Car Loan?",
+        "response": "To qualify for a Car Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Can I apply for a Personal Loan?",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Tell me about your Student Loan options.",
+        "response": "We offer Student Loans with flexible repayment terms. Please visit our website to check your eligibility."
+    },
+    {
+        "instruction": "Block my card immediately.",
+        "response": "Do not worry. You can freeze your MasterCard via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Initiate a transfer of 4243.00.",
+        "response": "I have initiated a transfer of 4243.00 to Alice. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "My MasterCard was stolen, what do I do?",
+        "response": "Please log in to the app and select 'Freeze Card' immediately. I can also connect you to a secure line to report the theft."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "Standard operating hours are 9:00 AM to 5:00 PM on weekdays. ATMs are available 24/7."
+    },
+    {
+        "instruction": "My Debit Card was stolen, what do I do?",
+        "response": "Do not worry. You can freeze your Debit Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can I wire 1688.00 to Bob?",
+        "response": "You are about to send 1688.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Tell me about your Personal Loan options.",
+        "response": "To qualify for a Personal Loan, you generally need a credit score above 650 and proof of income."
+    },
+    {
+        "instruction": "Transfer 2105.00 to Mom.",
+        "response": "I have initiated a transfer of 2105.00 to Mom. Please confirm the transaction in your banking app."
+    },
+    {
+        "instruction": "Transfer 102.00 to Mom.",
+        "response": "You are about to send 102.00. Please authorize this via the notification sent to your phone."
+    },
+    {
+        "instruction": "Initiate a transfer of 4802.00.",
+        "response": "Transfer request for 4802.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Tell me about your Home Loan options.",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "When does the downtown branch close?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "Are you open on public holidays?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "What is my current balance?",
+        "response": "You have $2703.00 available in your Business."
+    },
+    {
+        "instruction": "I lost my credit card.",
+        "response": "I have locked your Travel Card temporarily. Please check your mobile app to permanently block it or request a replacement."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "As of today, your Joint has a balance of $3828.00."
+    },
+    {
+        "instruction": "What is the interest rate for a Home Loan?",
+        "response": "Our Home Loans start at an APR of 5.5% depending on your credit score. Would you like to apply?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "We are currently closed. Our hours are 9 AM to 5 PM, Monday through Friday."
+    },
+    {
+        "instruction": "Send 4987.00 to my mom.",
+        "response": "Transfer request for 4987.00 received. Please verify the recipient's details before I confirm."
+    },
+    {
+        "instruction": "Check Checking balance please.",
+        "response": "The available balance for your Checking is $4432.00."
+    },
+    {
+        "instruction": "How do I report a lost Travel Card?",
+        "response": "Do not worry. You can freeze your Travel Card via the banking portal under 'Card Services'. Shall I guide you there?"
+    },
+    {
+        "instruction": "Can I visit the branch at 7 PM?",
+        "response": "Branches close at 5 PM. However, you can use our 24/7 digital banking services for most needs."
+    },
+    {
+        "instruction": "I need to know my remaining balance in Joint.",
+        "response": "Your current balance in the Joint is $685.00."
+    }
+]
